@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 Live link:
 [earnest-zuccutto-71a8e5.netlify.app
 ](https://earnest-zuccutto-71a8e5.netlify.app/)
+Application summary.
+A world tour planning application built with React and Node.js, allowing users to track visited countries, mark future travel destinations, and toggle travel status with interactive flag-based selection.
